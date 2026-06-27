@@ -1,0 +1,21 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Administrator\Desktop\workspace\bjt_io_characteristics\Simulation\Ltspice_simulation\input_characteristics.net
+Start Time: Sat Jun 27 21:15:49 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+.OP point found by inspection.
+.step VCC=0 
+.step VCC=1 
+.step VCC=2 
+.step VCC=3 
+.step VCC=4 
+.step VCC=5 
+Total elapsed time: 0.189 seconds.
+
+Files loaded:
+C:\Users\Administrator\Desktop\workspace\bjt_io_characteristics\Simulation\Ltspice_simulation\input_characteristics.net
+C:\Users\Administrator\AppData\Local\LTspice\lib\cmp\standard.bjt
+
